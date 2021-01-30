@@ -2,7 +2,18 @@
 <html>
 <head>
 <title>吃掉小鹿乃</title>
+<meta item="description" content="你无聊吗？" />
+<meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
 <meta charset="utf-8" />
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?d41fa227018de3772f58108c76d3dfd5";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
 <script type="text/javascript" src="scripts/createjs.js"></script>
 <script type="text/javascript">
@@ -99,15 +110,15 @@
 
     #GameScoreLayer {padding-top:2em; font-size:2em; font-weight: bold; color:#000000; text-align: center;overflow: hidden;}
 
-    .bgc1 {background:url(bg.jpg) no-repeat center top;}
+    .bgc1 {}
 
-    .bgc2 {background:url(bg.jpg) no-repeat center top;}
+    .bgc2 {}
 
-    .bgc3 {background:url(bg.jpg) no-repeat center top;}
+    .bgc3 {}
 
-    .bgc4 {background:url(bg.jpg) no-repeat center top;}
+    .bgc4 {}
 
-    .bgc5 {background:url(bg.jpg) no-repeat center top;}
+    .bgc5 {}
 
 
 
@@ -725,6 +736,9 @@ display: none;
 
 	        if (score <= 199)
 	            return 'TQL';
+	        
+	        if (score >199)
+	            return '人？';
 
 	    }
 
@@ -800,7 +814,7 @@ display: none;
 	    }, false);
 </script>
 <div id="GameScoreLayer" class="BBOX SHADE bgc1" style="display:none;">
-<div style="padding:0 5%;margin-top: 300px;">
+<div style="padding:0 5%;margin-top: 250px;">
 <div id="GameScoreLayer-text"></div>
 <div id="GameScoreLayer-score" style="margin:10px 0;">得分</div>
 <div id="GameScoreLayer-bast">最佳</div>
@@ -815,7 +829,7 @@ display: none;
 <div class="FILL BOX-M" style="position:absolute;top:0;left:0;right:0;bottom:0;z-index:5;">
 <div style="margin:0 8% 0 9%;">
 <div style="font-size:2.6em; color:#FEF002;">你无聊吗？</div><br />
-<div style="font-size:2.2em; color:#fff; line-height:1.5em;">从最下面的小鹿乃开始，<br />20秒内看你能吃掉多少个鹿乃！<br /></div><br />
+<div style="font-size:2.2em; color:#fff; line-height:1.5em;">从最下面的小鹿乃开始，<br />20秒内看你能恰掉多少！<br /></div><br />
 <div id="ready-btn" class="btn loading" style="display:inline-block; margin:0 auto; width:8em; height:1.7em; line-height:1.7em; font-size:2.2em; color:#fff;"></div>
 <div id="dd1" style="margin: 10px 0 0 0;">
 <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-0536909684105118" data-ad-slot="7781906075"></ins>
