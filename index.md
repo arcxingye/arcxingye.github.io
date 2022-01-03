@@ -4,8 +4,10 @@ layout: default
 
 # Github Pages
 
-[Github](https://github.com/arcxingye).
+Welcome
 
-[Blog](https://xingye.me/).
+*   [Github](https://github.com/arcxingye).
+*   [Blog](https://xingye.me/).
+*   [Bilibili](https://space.bilibili.com/3853579).
 
-[Bilibili](https://space.bilibili.com/3853579).
+
