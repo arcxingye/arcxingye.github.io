@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Welcome
 
 *   [Github](https://github.com/arcxingye).
