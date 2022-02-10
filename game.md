@@ -8,7 +8,11 @@ Games
 
 本页面不是固定的(随时变换)，因此不用记这个页面的网址，请记住https://xingye.me/game
 
-提示:可自由操作时两指齐按可打开菜单存档
+提示:
+
+可自由操作时两指齐按可打开菜单存档
+
+手机党建议全屏+旋转浏览器再点进去玩
 
 
 *   [女仆life](https://arcxingye.github.io/MaidLife/).
