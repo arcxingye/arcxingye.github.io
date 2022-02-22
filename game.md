@@ -10,9 +10,13 @@ Games
 
 提示:
 
-可自由操作时两指齐按可打开菜单存档
+通常RPG作可自由操作时两指齐按可打开菜单存档
 
 手机党建议全屏+旋转浏览器再点进去玩
+
+长时间加载不进去通常是网络问题，请换网或者开个梯子
+
+如遇报错，请到对应的仓库发issues
 
 
 *   [女仆life](https://arcxingye.github.io/MaidLife/).
@@ -23,3 +27,4 @@ Games
 *   [忧郁的安娜](https://arcxingye.github.io/melancholianna/index.html).
 *   [索尼娅与催眠都市](https://amemei.github.io/HypnoticCity/index.html).
 *   [时间停止幻想乡](https://amemei.github.io/THEWorld/index.html).
+*   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
