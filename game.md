@@ -28,3 +28,4 @@ Games
 *   [索尼娅与催眠都市](https://amemei.github.io/HypnoticCity/index.html).
 *   [时间停止幻想乡](https://amemei.github.io/THEWorld/index.html).
 *   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
+*   [兽耳工房~亚妮雅的炼金工房](https://arcxingye.github.io/AnimalEarWorkshop/) 20190544
