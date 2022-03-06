@@ -1,9 +1,3 @@
----
-layout: default
----
-
-# Github Pages
-
 Welcome
 
 *   [游戏](https://xingye.me/game/index.php).
