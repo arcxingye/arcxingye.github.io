@@ -18,6 +18,7 @@ Games
 
 如遇报错，请到对应的仓库发issues
 
+没声音请检查浏览器设置，或者浏览器切换桌面版，再不行换个浏览器
 
 *   [女仆life](https://arcxingye.github.io/MaidLife/).
 *   [芙兰与罪人之岛](https://amemei.github.io/FuranToZaininNoSima/index.html).
