@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 Games
 
@@ -20,14 +18,14 @@ Games
 
 没声音请检查浏览器设置，或者浏览器切换桌面版，再不行换个浏览器
 
-*   [女仆life](https://arcxingye.github.io/MaidLife/).
+*   [女仆life](https://arcxingye.github.io/MaidLife/). 72844631
 *   [芙兰与罪人之岛](https://amemei.github.io/FuranToZaininNoSima/index.html).
-*   [淫魔的陷阱岛](https://amemei.github.io/TrapIsland/index.html).
+*   [淫魔的陷阱岛](https://amemei.github.io/TrapIsland/index.html). 21503752
 *   [魔法少女苍蓝星](https://amemei.github.io/MagicGirls/index.html).
 *   [诅咒铠甲](https://amemei.github.io/ArmorDamned/index.html).
 *   [忧郁的安娜](https://arcxingye.github.io/melancholianna/index.html).
-*   [索尼娅与催眠都市](https://amemei.github.io/HypnoticCity/index.html).
-*   [时间停止幻想乡](https://amemei.github.io/THEWorld/index.html).
+*   [索尼娅与催眠都市](https://amemei.github.io/HypnoticCity/index.html). 76312844
+*   [时间停止幻想乡](https://amemei.github.io/THEWorld/index.html). 28449763
 *   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
 *   [兽耳工房~亚妮雅的炼金工房](https://arcxingye.github.io/AnimalEarWorkshop/index.html). 20190544
 *   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
