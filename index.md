@@ -1,7 +1,7 @@
 Welcome
 
 你可能感兴趣的
-*   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@arcxingye).
+*   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@seiya).
 *   [在线黄油列表](https://arcxingye.github.io/game).
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode).
 
