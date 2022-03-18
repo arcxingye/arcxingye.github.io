@@ -2,9 +2,7 @@
 
 Games
 
-鉴于博客合法性，黄油移步此处
-
-本页面不是固定的(随时变换)，因此不用记这个页面的网址，请记住https://xingye.me/game
+本页面不是固定的，因此不用记这个页面的网址，请记住https://xingye.me/game
 
 提示:
 
@@ -18,6 +16,7 @@ Games
 
 没声音请检查浏览器设置，或者浏览器切换桌面版，再不行换个浏览器
 
+h
 *   [女仆life](https://arcxingye.github.io/MaidLife/). 72844631
 *   [芙兰与罪人之岛](https://amemei.github.io/FuranToZaininNoSima/index.html).
 *   [淫魔的陷阱岛](https://amemei.github.io/TrapIsland/index.html). 21503752
@@ -29,3 +28,6 @@ Games
 *   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
 *   [兽耳工房~亚妮雅的炼金工房](https://arcxingye.github.io/AnimalEarWorkshop/index.html). 20190544
 *   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
+
+non-h
+*   [喵可莉的兔玩偶](https://amemei.github.io/Nyakori/index.html).
