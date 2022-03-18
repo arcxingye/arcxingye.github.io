@@ -2,7 +2,9 @@
 
 # game.md
 
-本页面不是固定的，因此不用记这个页面的网址，请记住https://xingye.me/game
+[返回index](https://arcxingye.github.io/)
+
+本页面不是固定的，因此不用记这个页面的网址，请记住[https://xingye.me/game/new](https://xingye.me/game/new)
 
 提示:
 1. 通常RPG作可自由操作时两指齐按可打开菜单存档
