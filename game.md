@@ -28,6 +28,3 @@ h
 *   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
 *   [兽耳工房~亚妮雅的炼金工房](https://arcxingye.github.io/AnimalEarWorkshop/index.html). 20190544
 *   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
-
-non-h
-*   [喵可莉的兔玩偶](https://amemei.github.io/Nyakori/index.html).
