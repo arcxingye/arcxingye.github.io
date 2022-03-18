@@ -1,22 +1,18 @@
 
 
-Games
+# game.md
 
 本页面不是固定的，因此不用记这个页面的网址，请记住https://xingye.me/game
 
 提示:
+1. 通常RPG作可自由操作时两指齐按可打开菜单存档
+2. 手机党建议全屏+旋转浏览器再点进去玩
+3. 长时间加载不进去通常是网络问题，请换网或者开个梯子
+4. 如遇报错，请到对应的仓库发issues
+5. 没声音请检查浏览器设置，或者浏览器切换桌面版，再不行换个浏览器
 
-通常RPG作可自由操作时两指齐按可打开菜单存档
-
-手机党建议全屏+旋转浏览器再点进去玩
-
-长时间加载不进去通常是网络问题，请换网或者开个梯子
-
-如遇报错，请到对应的仓库发issues
-
-没声音请检查浏览器设置，或者浏览器切换桌面版，再不行换个浏览器
-
-h
+# 游戏列表
+后数字为礼包码
 *   [女仆life](https://arcxingye.github.io/MaidLife/). 72844631
 *   [芙兰与罪人之岛](https://amemei.github.io/FuranToZaininNoSima/index.html).
 *   [淫魔的陷阱岛](https://amemei.github.io/TrapIsland/index.html). 21503752
