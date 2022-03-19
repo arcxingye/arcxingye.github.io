@@ -26,4 +26,4 @@
 *   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
 *   [兽耳工房~亚妮雅的炼金工房](https://arcxingye.github.io/AnimalEarWorkshop/index.html). 20190544
 *   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
-*   [没有魔力的魅魔艾米莉酱](https://amemei.github.io/Emily/index.html).
+*   [没有魔力的魅魔艾米莉酱](https://amemei.github.io/Emily/index.html). 24497631
