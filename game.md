@@ -13,7 +13,7 @@
 3. 长时间加载不进去通常是网络问题，请换网或者开个梯子
 4. 如遇报错，请到对应的仓库发issues
 5. 没声音请检查浏览器设置，或者浏览器切换桌面版，再不行换个浏览器
-6. 请勿到下面的仓库中点击fork
+6. 请勿到下面的仓库中点击fork，版权问题联系原仓库
 
 # 游戏列表
 后数字为礼包码
@@ -29,4 +29,4 @@
 *   [兽耳工房~亚妮雅的炼金工房](https://arcxingye.github.io/AnimalEarWorkshop/index.html). 20190544
 *   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
 *   [没有魔力的魅魔艾米莉酱](https://amemei.github.io/Emily/index.html). 24497631
-*   [冒险者芙萝拉和世界树之根](https://amemei.github.io/Yggdrasill/index.html).
+*   [冒险者芙萝拉和世界树之根](https://amemei.github.io/Yggdrasill/index.html). 24497631
