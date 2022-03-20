@@ -15,3 +15,7 @@ Welcome
 *   [QQ群1054123593](https://qm.qq.com/cgi-bin/qm/qr?k=5lIi5Hfbd00FUA_Y13W40NEmzl8O9are&jump_from=webapi).
 *   [Line群](https://line.me/R/ti/g/4aiPvAqIm3).
 *   [Telegram群](https://t.me/+tCqug8nQlXthZTZl).
+
+声明：
+1. 本人不参与网页聊天
+2. 版权问题请联系站长，第一时间处理
