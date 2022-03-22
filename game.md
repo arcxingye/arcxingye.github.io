@@ -25,7 +25,6 @@
 *   [诅咒铠甲](https://amemei.github.io/ArmorDamned/index.html).
 *   [忧郁的安娜](https://arcxingye.github.io/melancholianna/index.html).
 *   [索尼娅与催眠都市](https://amemei.github.io/HypnoticCity/index.html). 76312844
-*   [时间停止幻想乡](https://amemei.github.io/THEWorld/index.html). 28449763
 *   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
 *   [兽耳工房~亚妮雅的炼金工房](https://arcxingye.github.io/AnimalEarWorkshop/index.html). 20190544
 *   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
