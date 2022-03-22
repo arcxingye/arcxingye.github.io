@@ -17,5 +17,5 @@ Welcome
 *   [Telegram群](https://t.me/+tCqug8nQlXthZTZl).
 
 声明：
-1. 本人不参与网页聊天及违法活动
+1. 本人不参与网页聊天
 2. 版权问题请联系站长，第一时间处理
