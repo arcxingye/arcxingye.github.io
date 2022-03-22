@@ -1,10 +1,6 @@
----
-layout: default
----
+# Tools
 
-Tools
-
-以下均与本人无任何关联
+以下均与本人无任何关联，均为外链
 
 *   [多地点ping](https://ping.chinaz.com/).
 *   [bilibili泄露数据查询](https://cha.hasu.fun/index.php).
