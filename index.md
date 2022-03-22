@@ -2,7 +2,7 @@ Welcome
 
 你可能感兴趣的
 *   [TP回小游戏](https://xingye.me/game/new/index.php).
-*   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@seiya).
+*   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@xingye).
 *   [在线黄油列表](https://arcxingye.github.io/game).
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode).
 
