@@ -18,15 +18,15 @@
 
 # 游戏列表
 后数字为礼包码
-*   [女仆life](https://arcxingye.github.io/MaidLife/). 72844631
+*   [女仆life](https://amemei.github.io/MaidLife/). 72844631
 *   [芙兰与罪人之岛](https://amemei.github.io/FuranToZaininNoSima/index.html).
 *   [淫魔的陷阱岛](https://amemei.github.io/TrapIsland/index.html). 21503752
 *   [魔法少女苍蓝星](https://amemei.github.io/MagicGirls/index.html).
 *   [诅咒铠甲](https://amemei.github.io/ArmorDamned/index.html).
-*   [忧郁的安娜](https://arcxingye.github.io/melancholianna/index.html).
+*   [忧郁的安娜](https://amemei.github.io/melancholianna/index.html).
 *   [索尼娅与催眠都市](https://amemei.github.io/HypnoticCity/index.html). 76312844
 *   [Chris Survival](https://amemei.github.io/ChrisSurvival/index.html).
-*   [兽耳工房~亚妮雅的炼金工房](https://arcxingye.github.io/AnimalEarWorkshop/index.html). 20190544
+*   [兽耳工房~亚妮雅的炼金工房](https://amemei.github.io/AnimalEarWorkshop/index.html). 20190544
 *   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
 *   [没有魔力的魅魔艾米莉酱](https://amemei.github.io/Emily/index.html). 24497631
 *   [冒险者芙萝拉和世界树之根](https://amemei.github.io/Yggdrasill/index.html). 24497631
