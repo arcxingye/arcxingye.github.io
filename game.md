@@ -30,3 +30,5 @@
 *   [兽耳少女不会背叛](https://amemei.github.io/Beasteargirl/index.html).
 *   [没有魔力的魅魔艾米莉酱](https://amemei.github.io/Emily/index.html). 24497631
 *   [冒险者芙萝拉和世界树之根](https://amemei.github.io/Yggdrasill/index.html). 28449761
+*   [NPCだけの世界でNPC姦！](https://amemei.github.io/NPC/index.html).
+*   [菲儿与色情陷阱的迷宫~](https://amemei.github.io/GUARDIANSTRAP/index.html).
