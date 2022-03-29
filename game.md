@@ -2,7 +2,7 @@
 
 # game.md
 
-[返回index](https://arcxingye.github.io/)
+[点击返回index](https://arcxingye.github.io/)
 
 色批数
 
