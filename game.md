@@ -24,7 +24,7 @@
 *   [女仆life](https://amemei.github.io/MaidLife/). 72844631
 *   [芙兰与罪人之岛](https://amemei.github.io/FuranToZaininNoSima/index.html).
 *   [淫魔的陷阱岛](https://amemei.github.io/TrapIsland/index.html). 21503752
-*   [魔法少女苍蓝星](https://amemei.github.io/MagicGirls/index.html).
+*   [魔法少女苍蓝星](https://amemei.github.io/Cang-LAN-STAR/index.html).
 *   [诅咒铠甲](https://amemei.github.io/ArmorDamned/index.html).
 *   [忧郁的安娜](https://amemei.github.io/melancholianna/index.html).
 *   [索尼娅与催眠都市](https://amemei.github.io/HypnoticCity/index.html). 76312844
