@@ -4,6 +4,10 @@
 
 [返回index](https://arcxingye.github.io/)
 
+色批数
+
+![hy](https://count.getloli.com/get/@hy)
+
 # 说明
 本页面不是固定的，因此不用记这个页面的网址，请记住[https://xingye.me/game/new](https://xingye.me/game/new)
 
