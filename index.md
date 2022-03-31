@@ -12,7 +12,7 @@ Welcome
 *   [个人博客](https://xingye.me/)
 
 其它联系
-*   [QQ群1054123593](https://qm.qq.com/cgi-bin/qm/qr?k=5lIi5Hfbd00FUA_Y13W40NEmzl8O9are&jump_from=webapi) (色批勿扰)
+*   [Q群1054123593](https://qm.qq.com/cgi-bin/qm/qr?k=5lIi5Hfbd00FUA_Y13W40NEmzl8O9are&jump_from=webapi) (色批加下面两，别加Q群！)
 *   [Line群](https://line.me/R/ti/g/4aiPvAqIm3)
 *   [Telegram群](https://t.me/+tCqug8nQlXthZTZl)
 
