@@ -19,5 +19,3 @@ Welcome
 声明：
 1. 本人不参与网页聊天
 2. 版权相关请联系站长，第一时间处理
-
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="we9a74f6fc7" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/e9a74f6fc7/?placementName=github"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
