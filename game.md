@@ -26,8 +26,7 @@
 1. 请勿到下面的仓库中点击fork，版权问题联系原仓库，都和本人无关
 2. 下面列表和本页所在仓库所有者无任何关系，也不对此负责，不是我上传的
 
-
-基本上所有解答都在上面，再问紫砂，还有问题联系B站号[24岁是面壁者](https://space.bilibili.com/383769313/)
+基本上所有解答都在上面，再问紫砂。还有问题联系B站号[24岁是面壁者](https://space.bilibili.com/383769313/)
 
 # 游戏列表
 后数字为礼包码
@@ -45,4 +44,4 @@
 *   [NPCだけの世界でNPC姦！](https://amemei.github.io/NPC/index.html).
 *   [菲儿与色情陷阱的迷宫~](https://amemei.github.io/GUARDIANSTRAP/index.html).
 
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="m14442a3431" data-domain="//bonepa.com" data-affquery="/ca387bb2f6/14442a3431/?placementName=github"><script src="//bonepa.com/js/responsive.js" async></script></ins>
+<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="z60a0ae188b" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/60a0ae188b/?placementName=github"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
