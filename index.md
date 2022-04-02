@@ -19,5 +19,3 @@ Welcome
 声明：
 1. 本人不参与网页聊天
 2. 版权相关请联系站长，第一时间处理
-
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="m14442a3431" data-domain="//bonepa.com" data-affquery="/ca387bb2f6/14442a3431/?placementName=github"><script src="//bonepa.com/js/responsive.js" async></script></ins>
