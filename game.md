@@ -45,4 +45,4 @@
 *   [NPCだけの世界でNPC姦！](https://amemei.github.io/NPC/index.html).
 *   [菲儿与色情陷阱的迷宫~](https://amemei.github.io/GUARDIANSTRAP/index.html).
 
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="z60a0ae188b" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/60a0ae188b/?placementName=github"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
+<div><ins style="width: 300px;height:250px" data-width="300" data-height="250" class="z60a0ae188b" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/60a0ae188b/?placementName=github"><script src="//qoaaa.com/js/responsive.js" async></script></ins></div>
