@@ -8,6 +8,8 @@
 
 ![hy](https://count.getloli.com/get/@hy)
 
+<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="k1249d1be3e" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/1249d1be3e/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
+
 # 说明
 本页面不是固定的，因此不用记这个页面的网址，请记住[https://xingye.me/game/new](https://xingye.me/game/new)
 
