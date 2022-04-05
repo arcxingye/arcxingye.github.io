@@ -24,3 +24,6 @@ Welcome
 声明：
 1. 本人不参与网页聊天
 2. 版权相关请联系站长，第一时间处理
+3. 不对外链内容负责，有问题可以联系我删链接
+
+<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="ta01f03eb15" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/a01f03eb15/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
