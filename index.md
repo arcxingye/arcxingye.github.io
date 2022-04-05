@@ -5,7 +5,7 @@ Welcome
 *   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@xingye)
 *   [仓库中好玩的](https://arcxingye.github.io/game)
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode)
-*   [短链](https://5e.fit/) (站长新站，来多多支持下)
+*   [短链生成](https://5e.fit/) (站长新站，来多多支持下)
 
 不感兴趣的
 *   [涩批点这](https://bonepa.com/9285d94ecb/7b15e6e39b/?placementName=default)
