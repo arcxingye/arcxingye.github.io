@@ -8,7 +8,7 @@ Welcome
 *   [短链生成](https://5e.fit/) (站长新站，来多多支持下)
 
 不感兴趣的
-*   [涩批点这](https://bonepa.com/9285d94ecb/7b15e6e39b/?placementName=default)
+*   [adult](https://bonepa.com/9285d94ecb/7b15e6e39b/?placementName=default)
 *   [non-adult](https://qoaaa.com/11de4be8d1/624bff92cd/?placementName=default)
 
 相关主页
