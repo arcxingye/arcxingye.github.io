@@ -3,7 +3,7 @@ Welcome
 你可能感兴趣的
 *   [TP回小游戏](https://xingye.me/game/new/index.php)
 *   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@xingye)
-*   [在线黄油列表](https://5e.fit/amemei)
+*   [amemei的货](https://5e.fit/amemei)
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode)
 *   [短链生成](https://5e.fit/) (站长新站，来多多支持下)
 
@@ -21,8 +21,8 @@ Welcome
 *   [Telegram群](https://t.me/+tCqug8nQlXthZTZl)
 
 声明：
-1. 本人不参与网页聊天
-2. 版权相关请联系站长，第一时间处理
-3. 不对外链内容负责，有问题可以联系我删链接
+1. 本人不参与网页聊天，出现的都是冒充
+2. 不对上面的内容负责，因为不是我的东西也不在我站上，别人改没改我不清楚
+3. 有问题联系站长进行此页更改，我会尽快进行处理
 
 <ins style="width: 300px;height:250px" data-width="300" data-height="250" class="ta01f03eb15" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/a01f03eb15/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
