@@ -13,7 +13,6 @@ Welcome
 
 相关主页
 *   [Github](https://github.com/arcxingye)
-*   [bilibili](https://space.bilibili.com/3853579)
 *   [个人博客](https://xingye.me/)
 
 其它联系
