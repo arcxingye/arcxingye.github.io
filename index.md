@@ -3,7 +3,7 @@ Welcome
 你可能感兴趣的
 *   [TP回小游戏](https://xingye.me/game/new/index.php)
 *   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@xingye)
-*   [amemei的货](https://5e.fit/amemei)
+*   [amemei的黄油](https://5e.fit/amemei)
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode)
 *   [短链/页面生成](https://5e.fit/)
 
