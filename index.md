@@ -5,7 +5,7 @@ Welcome
 *   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@xingye)
 *   [amemei的货](https://5e.fit/amemei)
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode)
-*   [短链生成](https://5e.fit/) (站长新站，来多多支持下)
+*   [短链/页面生成](https://5e.fit/)
 
 不感兴趣的
 *   [adult](https://bonepa.com/9285d94ecb/7b15e6e39b/?placementName=default)
@@ -22,7 +22,7 @@ Welcome
 
 声明：
 1. 本人不参与网页聊天，出现的都是冒充
-2. 不对上面的内容负责，因为不是我的东西也不在我站上，别人改没改我不清楚
-3. 有问题联系站长进行此页更改，我会尽快进行处理
+2. 不对上面的外部链接负责，因为不是我的东西也不在我站上，别人改没改我不能实时得知
+3. 有问题联系站长进行此页更改，会尽快进行处理
 
 <ins style="width: 300px;height:250px" data-width="300" data-height="250" class="ta01f03eb15" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/a01f03eb15/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
