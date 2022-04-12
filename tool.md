@@ -1,6 +1,6 @@
 # Tools
 
-以下均与本人无任何关联，均为外链
+以下均与本人无任何关联，都是外部链接，不是我的东西，不对此负责
 
 *   [多地点ping](https://ping.chinaz.com/).
 *   [bilibili泄露数据查询](https://cha.hasu.fun/index.php).
