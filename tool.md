@@ -10,3 +10,11 @@
 *   [md5解密](https://cmd5.com/).
 *   [waifu2x](https://waifu2x.udp.jp/).
 *   [短信轰炸](https://ceya.xichuang.cloud/).
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-190316399-3');
+</script>
