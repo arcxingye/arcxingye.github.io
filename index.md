@@ -24,4 +24,10 @@ Welcome
 2. 不对上面的外部链接负责，因为不是我的东西也不在我站上，别人改没改我不能实时得知
 3. 有问题联系站长进行此页更改，会尽快进行处理
 
-<ins style="width: 300px;height:250px" data-width="300" data-height="250" class="ta01f03eb15" data-domain="//qoaaa.com" data-affquery="/f2d84885c2/a01f03eb15/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-190316399-3');
+</script> -->
