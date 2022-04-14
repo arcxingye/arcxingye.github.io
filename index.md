@@ -25,10 +25,10 @@ Welcome
 3. 有问题联系站长进行此页更改，会尽快进行处理
 4. 均为国外网站/页面，国内访问责任自负
 
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'UA-190316399-3');
-</script> -->
+</script>
