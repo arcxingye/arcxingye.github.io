@@ -14,6 +14,7 @@ Welcome
 相关主页
 *   [Github](https://github.com/arcxingye)
 *   [个人博客](https://xingye.me/)
+*   [bilibili](https://space.bilibili.com/3853579) 点个关注谢谢
 
 其它联系
 *   [Line群](https://line.me/R/ti/g/4aiPvAqIm3)
