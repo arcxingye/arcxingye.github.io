@@ -26,6 +26,8 @@ Welcome
 3. 有问题联系站长进行此页更改，会尽快进行处理
 4. 均为国外网站/页面，遵守当地法律法规，仅供海外华人，国内访问责任自负
 
+<img width="397" height="576" src="https://xingye.me/game/images/xx.jpg"/>
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
