@@ -1,7 +1,7 @@
 Welcome
 
 你可能感兴趣的
-*   [Q群475269005](https://qm.qq.com/cgi-bin/qm/qr?k=49dp2UcgAJ2Lt0bnDPHljlDPvwYYgJxe&jump_from=webapi)
+*   [闲聊Q群475269005](https://qm.qq.com/cgi-bin/qm/qr?k=49dp2UcgAJ2Lt0bnDPHljlDPvwYYgJxe&jump_from=webapi) 严禁广告
 *   [TP回小游戏](https://xingye.me/game/new/index.php)
 *   [网页聊天室](https://arcxingye.github.io/utu.html?url=https://chat.getloli.com/room/@xingye)
 *   [amemei的黄油](https://amemei.github.io/utu.html?url=https://5e.fit/amemei) (Password:114514)
