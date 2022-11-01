@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+    <title>解析</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.js"></script>
+    <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/5.2.0-beta1/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .list-group {
+            padding: 20px 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="max-width:640px;margin:0 auto;">
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" onclick="tab(0);">简单</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" onclick="tab(1);">自定义</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" onclick="tab(2);">API</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://online-audio-converter.com/cn/">转换音频</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://mp3cut.net/cn/">音频剪辑</a>
+            </li>
+        </ul>
+        <div class="list-group" style="display:block;">
+            简洁的破烂工具(vrc自用) 声明：非本站API
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="带bv号的链接或者直接bv号" id="url">
+                <button type="button" class="btn btn-outline-primary" onclick="parsebv()">确定</button>
+            </div>
+        </div>
+
+        <div class="list-group" style="display:none;">
+            <div class="input-group mb-3">
+                <span class="input-group-text">av</span>
+                <input type="number" class="form-control" placeholder="视频av号" id="av">
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text">bv</span>
+                <input type="text" class="form-control" placeholder="视频bv号" id="bv">
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text">编号</span>
+                <input type="text" class="form-control" placeholder="剧集编号(不知道是什么就别填)" id="ep">
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text">集数</span>
+                <input type="number" class="form-control" placeholder="视频集数(分p的第几个，限多p视频填)" id="p">
+            </div>
+            <div class="input-group mb-3">
+                <label class="input-group-text">清晰度</label>
+                <select class="form-select" id="q">
+                    <option value="16">16</option>
+                    <option selected value="32">32</option>
+                    <option value="64">64</option>
+                    <option value="80">80</option>
+                </select>
+            </div>
+            <div class="input-group mb-3">
+                <label class="input-group-text">视频类型</label>
+                <select class="form-select" id="type">
+                    <option selected value="video">video</option>
+                    <option value="bangumi">bangumi</option>
+                </select>
+            </div>
+            <div class="input-group mb-3">
+                <label class="input-group-text">视频格式</label>
+                <select class="form-select" id="format">
+                    <option value="flv">flv</option>
+                    <option value="dash">dash</option>
+                    <option selected value="mp4">mp4</option>
+                </select>
+            </div>
+            <button type="button" class="btn btn-outline-primary" onclick="Custom()">确定</button>
+        </div>
+
+        <div class="list-group" style="display:none;">
+            <h5>API文档</h5>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>参数</th>
+                        <th>含义</th>
+                        <th>默认</th>
+                        <th>可选</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>av</td>
+                        <td>视频av号</td>
+                        <td></td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>bv</td>
+                        <td>视频bv号</td>
+                        <td></td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>ep</td>
+                        <td>剧集编号</td>
+                        <td></td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>p</td>
+                        <td>视频集数</td>
+                        <td>1</td>
+                        <td>>=1</td>
+                    </tr>
+                    <tr>
+                        <td>q</td>
+                        <td>视频清晰度</td>
+                        <td>32</td>
+                        <td>16/32/64/80</td>
+                    </tr>
+                    <tr>
+                        <td>type</td>
+                        <td>视频类型</td>
+                        <td>video</td>
+                        <td>video/bangumi</td>
+                    </tr>
+                    <tr>
+                        <td>format</td>
+                        <td>视频格式</td>
+                        <td>flv</td>
+                        <td>flv/dash/mp4</td>
+                    </tr>
+                    <tr>
+                        <td>otype</td>
+                        <td>输出格式</td>
+                        <td>json</td>
+                        <td>json/url/dplayer</td>
+                    </tr>
+                </tbody>
+            </table>
+            <h5>示例：</h5>
+            <a
+                href="https://api.injahow.cn/bparse/?av=14661594&p=1&q=64&otype=json">https://api.injahow.cn/bparse/?av=14661594&p=1&q=64&otype=json</a>
+            <a
+                href="https://api.injahow.cn/bparse/?av=14661594&p=2&q=32&otype=url">https://api.injahow.cn/bparse/?av=14661594&p=2&q=32&otype=url</a>
+            <a
+                href="https://api.injahow.cn/bparse/?av=14661594&p=1&format=mp4&otype=json">https://api.injahow.cn/bparse/?av=14661594&p=1&format=mp4&otype=json</a>
+            <a
+                href="https://api.injahow.cn/bparse/?av=14661594&p=1&otype=dplayer">https://api.injahow.cn/bparse/?av=14661594&p=1&otype=dplayer</a>
+            <p>↑都不是我的，放心用</p>
+        </div>
+        <div id="output" style="padding:15px;display:block"></div>
+    </div>
+</body>
+
+<script>
+    function tab(n) {
+        $('.nav-link').removeClass('active').eq(n).addClass('active');
+        $('.list-group').css('display', 'none').eq(n).css('display', 'block');
+        n==2?$('#output').css('display', 'none'):$('#output').css('display', 'block')
+    }
+    function parsebv() {
+        let bv;
+        let text = $("#url").val();
+        if (text.length > 12) {
+            bv = text.match(/[\s\S]*BV([a-z|A-Z|0-9]{10})[\s\S]*/)
+            if (!bv) {
+                alert("链接中不含BV号")
+                return
+            }
+        } else {
+            bv = text.match(/[\s\S]*([a-z|A-Z|0-9]{10})/)
+            if (!bv) {
+                alert("这个应该不是BV号...")
+                return
+            }
+        }
+        let p = text.match(/\?p=(\d+)[\s\S]*/)
+        p ? p = p[1] : 1;
+        getData({ bv: bv[1], p: p, format: "mp4" })
+    }
+    function Custom() {
+        let param = {};
+        let id = ['av', 'bv', 'ep', 'p', 'q', 'type', 'format'];
+        for (let i of id) {
+            $("#" + i + "").val().length > 0 ? param[i] = $("#" + i + "").val() : "";
+        }
+        if ($("#av").val().length > 0 && $("#bv").val().length > 0) {
+            alert("弟啊，av和bv只填一个就行")
+            return
+        }
+        getData(param);
+    }
+    function getData(param) {
+        $.ajax({
+            method: "GET",
+            url: "https://api.injahow.cn/bparse/",
+            dataType: "json",
+            data: param,
+            success: function (data) {
+                if (data.code == 0) {
+                    let url = data.url
+                    $("#output").html('预览只支持mp4，能看则有效。点击视频可保存。<br/><video width="320" height="240" controls><source src="' + url + '" type="video/mp4">您的浏览器不支持Video标签。</video><br/>点击下面的内容，按ctrl+a全选然后ctrl+c复制。<br/><input class="form-control" value=' + url + '>');
+                } else {
+                    $("#output").html('解析失败')
+                }
+            },
+            error: function (e) {
+                alert("错误：" + e)
+            }
+        });
+    }
+</script>
+
+</html>
