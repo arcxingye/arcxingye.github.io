@@ -8,6 +8,10 @@ Welcome
 *   [短链/页面/二维码生成](https://5e.fit/)
 
 不感兴趣的
+*   [购买服务器(雨云)](https://www.rainyun.com/?ref=MTM3MTQ=)
+*   [购买服务器(vultr)](https://www.vultr.com/?ref=9281803)
+*   [购买服务器(bandwagon)](https://bandwagonhost.com/aff.php?aff=69393)
+*   如有购买服务器需求，可考虑以上几家，国内外都有，本人也用
 *   [adult](https://bonepa.com/9285d94ecb/7b15e6e39b/?placementName=default)
 *   [non-adult](https://qoaaa.com/11de4be8d1/624bff92cd/?placementName=default)
 
