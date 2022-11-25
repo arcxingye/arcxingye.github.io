@@ -18,12 +18,10 @@ Welcome
 相关主页
 *   [Github](https://github.com/arcxingye)
 *   [个人博客](https://xingye.me/)
-*   [bilibili](https://space.bilibili.com/3853579) 点个关注谢谢
 
 其它联系
 *   [Line群](https://line.me/R/ti/g/4aiPvAqIm3)
 *   [Telegram群](https://t.me/+tCqug8nQlXthZTZl)
-*   [QQ群113614031](https://qm.qq.com/cgi-bin/qm/qr?k=z5Hw-vaNfswJtySBhw9xiyUEf0w9b094&jump_from=webapi&authKey=yGWmBqnDhtckiEdRMWZnK5yRWUhLVz9nzGhGvlHafHqHpgm8watSJQUBN7CjqSKu)
 
 声明：
 1. 本人不参与网页聊天，出现的都是冒充
