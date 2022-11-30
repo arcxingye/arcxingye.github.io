@@ -13,6 +13,7 @@ Welcome
 *   [服务器(bandwagon)网络好](https://bandwagonhost.com/aff.php?aff=69393)
 *   如有购买服务器需求，可考虑以上几家，国内外都有，本人也在用
 *   [高速梯子(VPN)推荐STT机场(邀请码KbzI)](https://sttlink.cc/auth/register?code=KbzI) 比较贵(20起步)但是确实快
+*   [无需审核的广告联盟(aff)](https://affili.st/343212) 代码随便塞，直接挂别人站上都行
 *   [adult](https://bonepa.com/9285d94ecb/7b15e6e39b/?placementName=default)/[non-adult](https://qoaaa.com/11de4be8d1/624bff92cd/?placementName=default)
 
 相关主页
