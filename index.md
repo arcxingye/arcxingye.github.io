@@ -14,7 +14,6 @@ Welcome
 *   如有购买服务器需求，可考虑以上几家，国内外都有，本人也在用
 *   [高速梯子(VPN)推荐STT机场](https://sttlink.cc/auth/register?code=KbzI)(邀请码KbzI) 如需按量购买考虑[另一家](https://direct.gfwservice.xyz/#/register?code=KXVa4jSL)(邀请码KXVa4jSL)
 *   [无需审核的免备广告联盟(aff)](https://affili.st/343212) 代码随便塞，直接挂别人站上都行
-*   [adult](https://bonepa.com/9285d94ecb/7b15e6e39b/?placementName=default)/[non-adult](https://qoaaa.com/11de4be8d1/624bff92cd/?placementName=default)
 
 相关主页
 *   [Github](https://github.com/arcxingye)
