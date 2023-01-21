@@ -13,7 +13,7 @@ Welcome
 *   [服务器(bandwagon)网络好](https://bandwagonhost.com/aff.php?aff=69393)
 *   如有购买服务器需求，可考虑以上几家，国内外都有，本人也在用
 *   [无需审核的免备广告联盟(aff)](https://affili.st/343212) 代码随便塞，直接挂别人站上都行
-*   [社 工 机器人](https://t.me/SGKmainNEWbot?start=IVT35BD814D)
+*   [盒武器](https://t.me/SGKmainNEWbot?start=IVT35BD814D)
 
 相关主页
 *   [Github](https://github.com/arcxingye)
