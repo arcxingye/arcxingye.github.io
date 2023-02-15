@@ -29,6 +29,7 @@ Welcome
 3. 有问题联系站长进行此页更改，会尽快进行处理
 4. 均为国外网站/页面，遵守当地法律法规，仅供海外华人，国内访问责任自负
 
+<ins style="width: 0px;height:0px" data-width="0" data-height="0" class="f30cd46c98d" data-domain="//qoaaa.com" data-affquery="/9faa46514caf9fb31a71/30cd46c98d/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
 <script>
