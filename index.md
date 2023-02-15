@@ -12,7 +12,7 @@ Welcome
 *   [服务器(vultr)](https://www.vultr.com/?ref=9281803)/[领100刀](https://www.vultr.com/?ref=9281825-8H)
 *   [服务器(bandwagon)](https://bandwagonhost.com/aff.php?aff=69393)
 <!-- *   如有购买服务器需求，可考虑以上几家，国内外都有，本人也在用 -->
-*   [无需审核的免备广告联盟(aff)](https://affili.st/343212) 代码随便塞，直接挂别人站上都行
+*   [无需审核的免备广告联盟(aff)](https://affili.st/343212)
 *   [盒武器](https://t.me/SGKmainNEWbot?start=IVT35BD814D)
 
 相关主页
