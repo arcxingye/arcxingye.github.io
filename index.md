@@ -12,8 +12,8 @@ Welcome
 *   [服务器(vultr)](https://www.vultr.com/?ref=9281803)/[领100刀](https://www.vultr.com/?ref=9281825-8H)
 *   [服务器(bandwagon)](https://bandwagonhost.com/aff.php?aff=69393)
 <!-- *   如有购买服务器需求，可考虑以上几家，国内外都有，本人也在用 -->
-*   [无需审核的免备广告联盟(aff)](https://affili.st/343212)
-*   [盒武器](https://t.me/SGKmainNEWbot?start=IVT35BD814D)
+*   [aff](https://affili.st/343212)
+*   [盒](https://t.me/SGKmainNEWbot?start=IVT35BD814D)
 
 相关主页
 *   [Github](https://github.com/arcxingye)
@@ -28,8 +28,6 @@ Welcome
 2. 不对上面的外部链接负责，因为不是我的东西也不在我站上，别人改没改成非法的我不能实时得知
 3. 有问题联系站长进行此页更改，会尽快进行处理
 4. 均为国外网站/页面，遵守当地法律法规，仅供海外华人，国内访问责任自负
-
-<ins style="width: 0px;height:0px" data-width="0" data-height="0" class="f30cd46c98d" data-domain="//qoaaa.com" data-affquery="/9faa46514caf9fb31a71/30cd46c98d/?placementName=default"><script src="//qoaaa.com/js/responsive.js" async></script></ins>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
 <script>
