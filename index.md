@@ -12,7 +12,7 @@ Welcome
 *   [服务器(vultr)](https://www.vultr.com/?ref=9281803)/[领100刀](https://www.vultr.com/?ref=9281825-8H)
 *   [服务器(bandwagon)](https://bandwagonhost.com/aff.php?aff=69393)
 *   如有购买服务器需求，可考虑以上几家，国内外都有，本人也在用
-*   [aff](https://affili.st/343212) / [盒](https://t.me/SGKmainNEWbot?start=IVT35BD814D) / [稍贵梯子(20+)](https://sttlink.cc/auth/register?code=KbzI) / [便宜梯子(6块起)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y) / 
+*   [aff](https://affili.st/343212) / [盒](https://t.me/SGKmainNEWbot?start=IVT35BD814D) / [稍贵梯子(20+)](https://sttlink.cc/auth/register?code=KbzI) / [便宜梯子(6块起)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
 
 相关主页
 *   [Github](https://github.com/arcxingye)
