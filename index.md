@@ -17,7 +17,7 @@ Welcome
 
 其它联系
 *   [Line群](https://line.me/R/ti/g/4aiPvAqIm3)
-*   [Telegram群](https://t.me/+tCqug8nQlXthZTZl)
+*   [TG群](https://t.me/+tCqug8nQlXthZTZl)
 
 声明：
 1. 本人不参与网页聊天，出现的都是冒充
