@@ -8,8 +8,8 @@ Welcome
 *   [短链/页面/二维码生成](https://5e.fit/)
 
 不感兴趣的
-*   [服务器(雨云)低价/可积分白嫖机子](https://www.rainyun.com/?ref=MTM3MTQ=)
-*   [便宜梯子(免费用7天)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
+*   [高性价比服务器(雨云)/可积分白嫖机子](https://www.rainyun.com/?ref=MTM3MTQ=)
+*   [超级便宜的梯子(注册免费试用7天)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
 
 相关主页
 *   [Github](https://github.com/arcxingye)
