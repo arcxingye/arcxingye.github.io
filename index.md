@@ -8,7 +8,7 @@ Welcome
 *   [短链/页面/二维码生成](https://5e.fit/)
 
 不感兴趣的
-*   [高性价比服务器(雨云)/可积分白嫖机子](https://www.rainyun.com/zzz_) 使用我链接创建用户可享受雨云全场七折(或者邀请码zzz)
+*   [高性价比服务器(雨云)/可积分白嫖机子](https://www.rainyun.com/zzz_) 使用我链接创建用户可享受雨云全场七折(或者输入码zzz)
 *   [超级便宜的梯子(注册免费试用7天)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
 
 相关主页
