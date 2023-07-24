@@ -10,6 +10,7 @@ Welcome
 不感兴趣的
 *   [高性价比服务器(雨云)/可积分白嫖机子](https://www.rainyun.com/优惠码_) 优惠码为[优惠码]三个字
 *   [超级便宜的梯子(注册免费试用7天)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
+*   广告位招租
 
 相关主页
 *   [Github](https://github.com/arcxingye)
