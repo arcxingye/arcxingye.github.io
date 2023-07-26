@@ -2,7 +2,7 @@ Welcome
 
 你可能感兴趣的
 *   [TP回小游戏](https://xingye.me/game/new/index.php)
-*   [聊天室1](https://chat.pighog.repl.co/room/@xingye)
+*   [聊天室](https://chat.pighog.repl.co/room/@xingye)
 *   [amemei的皇油](https://amemei.github.io)
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode)
 *   [短链/页面/二维码生成](https://5e.fit/)
