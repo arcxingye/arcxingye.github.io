@@ -2,15 +2,14 @@ Welcome
 
 你可能感兴趣的
 *   [TP回小游戏](https://xingye.me/game/new/index.php)
-*   [聊天室1](https://chat.pighog.repl.co/room/@xingye) / [聊天室2](https://arcxingye.github.io/utu.html?url=https://crosst.chat/?xingye)
-*   [amemei的黄油](https://amemei.github.io)
+*   [聊天室1](https://chat.pighog.repl.co/room/@xingye)
+*   [amemei的皇油](https://amemei.github.io)
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode)
 *   [短链/页面/二维码生成](https://5e.fit/)
 
 不感兴趣的
-*   [高性价比服务器(雨云)/可积分白嫖机子](https://www.rainyun.com/优惠码_) 优惠码为[优惠码]三个字
-*   [超级便宜的梯子(注册免费试用7天)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
-*   广告位招租
+*   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/优惠码_) 优惠码为[优惠码]三个字
+*   [超级便宜的魔法(注册免费试用7天)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
 
 相关主页
 *   [Github](https://github.com/arcxingye)
