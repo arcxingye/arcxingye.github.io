@@ -4,7 +4,7 @@ Welcome
 *   [TP回小游戏](https://xingye.me/game/new/index.php)
 *   [聊天室](https://chat.pighog.repl.co/room/@xingye)
 *   [amemei的皇油](https://amemei.github.io)
-*   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode)
+*   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode2)
 
 不感兴趣的
 *   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/优惠码_) 优惠码为[优惠码]三个字
