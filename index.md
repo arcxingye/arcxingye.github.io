@@ -9,8 +9,9 @@ Welcome
 不感兴趣的
 *   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/优惠码_) 优惠码为[优惠码]三个字
 *   [超级便宜的魔法(注册免费试用7天)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
-*   [VRCHAT银趴俱乐部(Discord)](https://discord.gg/7T577Je47C)
 
+关于rickroll链接，如果不能用，请尝试rr/a1-a10，总有一个能用，例如https://arcxingye.github.io/rr/a5
+ 
 相关主页
 *   [Github](https://github.com/arcxingye)
 *   [个人博客](https://xingye.me/)
