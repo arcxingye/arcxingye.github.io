@@ -7,7 +7,7 @@ Welcome
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode2)
 
 不感兴趣的
-*   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/优惠码_) 优惠码为[优惠码]三个字
+*   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/优惠码_)
  
 相关主页
 *   [Github](https://github.com/arcxingye)
