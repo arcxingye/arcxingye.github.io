@@ -8,7 +8,9 @@ Welcome
 
 不感兴趣的
 *   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/优惠码_)
- 
+*   [超级便宜的魔法(免费7天)](https://console.simplesocks.pro/#/register?code=u4Sn9j5Y)
+*   [稳定高速的魔法](https://sttlink.com/auth/register?code=KbzI)
+
 相关主页
 *   [Github](https://github.com/arcxingye)
 *   [个人博客](https://xingye.me/)
