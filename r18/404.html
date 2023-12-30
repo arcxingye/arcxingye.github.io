@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190316399-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-190316399-3');
+    </script>
+</head>
+
+<body>
+    正在生成涩图，<span id="totalSecond">2</span>s
+
+    <script language="javascript" type="text/javascript">
+        var second = document.getElementById('totalSecond').textContent;
+
+        if (navigator.appName.indexOf("Explorer") > -1) {
+            second = document.getElementById('totalSecond').innerText;
+        } else {
+            second = document.getElementById('totalSecond').textContent;
+        }
+
+        setInterval("redirect()", 1000);
+        function redirect() {
+            if (second < 0) {
+                location.href = '/rr/Random/a'+parseInt(Math.random()*(50+1),10)+(Math.random()>0.5?'.html':'');
+            } else {
+                if (navigator.appName.indexOf("Explorer") > -1) {
+                    document.getElementById('totalSecond').innerText = second--;
+                } else {
+                    document.getElementById('totalSecond').textContent = second--;
+                }
+            }
+        } 
+    </script>
+</body>
+
+</html>
