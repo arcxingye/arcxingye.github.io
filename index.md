@@ -7,7 +7,7 @@ Welcome
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode4)
 
 不感兴趣的
-*   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/优惠码_)
+*   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/MTMwMjQy_)
 *   [稳定高速的魔法](https://sttlink.com/auth/register?code=KbzI)
 *   [便宜耐用的魔法](https://www.onesy.cc/auth/register?code=cC34)
 
