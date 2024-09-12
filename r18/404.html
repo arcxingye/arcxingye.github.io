@@ -29,7 +29,7 @@
         setInterval("redirect()", 1000);
         function redirect() {
             if (second < 0) {
-                location.href = '/rr/Random/b'+parseInt(Math.random()*(50+1),10)+(Math.random()>0.5?'.html':'');
+                location.href = '/rr/Random/c'+parseInt(Math.random()*(50+1),10)+(Math.random()>0.5?'.html':'');
             } else {
                 if (navigator.appName.indexOf("Explorer") > -1) {
                     document.getElementById('totalSecond').innerText = second--;
