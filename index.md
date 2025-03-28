@@ -3,7 +3,7 @@ Welcome
 你可能感兴趣的
 *   [TP回小游戏](https://xingye.me/game/new/index.php)
 *   [聊天室](https://amemei-lists-chat-room.hf.space/room/@xingye)
-*   [amemei的黄油](https://amemei-lists.top/)
+*   [amemei的黄油](https://amemei9f-lists.top/)
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode5)
 
 不感兴趣的
