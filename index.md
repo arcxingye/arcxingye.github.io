@@ -7,9 +7,9 @@ Welcome
 *   [rickroll二维码获取](https://arcxingye.github.io/rr/qrcode5)
 
 不感兴趣的
-*   [0.07x的gpt](https://kedaya.ai/register?aff=6ZEJ9KTB6BY3)
+*   [0.07x的gpt可用astra](https://kedaya.ai/register?aff=6ZEJ9KTB6BY3)
 *   [高性价比服务器(雨云)/可积分搞机子](https://www.rainyun.com/MTMwMjQy_)
-*   [便宜耐用的魔法](https://www.onesy.cc/auth/register?code=cC34)
+<!--*   [便宜耐用的魔法](https://www.onesy.cc/auth/register?code=cC34) -->
 
 相关主页
 *   [Github](https://github.com/arcxingye)
